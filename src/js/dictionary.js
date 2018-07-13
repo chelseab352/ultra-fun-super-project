@@ -1,9 +1,11 @@
 module.exports = {
 
 adverbs: [
+
 ],
 
 nouns: [
+
 ],
 
 activity: [
@@ -174,7 +176,10 @@ funfacts: [
 'Competed in the (year) Unofficial Olympics in the sport of (sport), but was disqualified for excessive (activity).',
 'Hobbies include (hobbies), (hobbies), and (hobbies).',
 'Likes to (activity) in the spring time in (country).',
-'Diehard fan of Olympic (sport)'
+'Diehard fan of Olympic (sport).',
+'Once rode an (animal) across Southern (country) for a charity event to raise money for disabled (job).',
+'Was the state champion in (hobbies) before having (his/her) title stripped after the (animal) scandal.',
+'Leveraged (his/her) hobby of (hobbies) to start a career as a (job) before joining 352.'
 ]
 
 
