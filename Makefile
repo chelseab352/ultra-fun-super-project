@@ -5,10 +5,10 @@ watch:
 
 build: index.js main.css
 
-index.js: $(wildcard src/js/*.js)
+index.js:  src/js/index.js
 	browserify -e src/js -o index.js
 
-main.css: $(wildcard src/sass/*.scss)
+main.css: src/sass/main.scss
 	sass src/sass/main.scss main.css
 
 install:
