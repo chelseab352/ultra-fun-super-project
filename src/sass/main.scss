@@ -1,12 +1,24 @@
 @import 'reset';
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
 
-
+html {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 h1 {
-  h2 {
-    color: red;
+
+}
+#overlay{
+  h1, p  {
+    color: white;
+    text-align: left;
+  }
+  h1{
+    font-size: 40px;
+  }
+  p {
+    font-size: 23px;
   }
 }
-
 #photos {
   opacity: .88;
 }
@@ -39,7 +51,7 @@ ul {
 }
 
 #overlay img {
-  margin: 50% auto 0;
+  margin: 10% auto 0;
   width: 550px;
   border-radius: 5px;
 }

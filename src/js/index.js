@@ -4,7 +4,6 @@ const $ = require('jquery');
 $(() => {
   console.log('ready');
   const o = new Ossuary({});
-  console.log(o.parse('{hello|world}'))
   var $overlay = $('<div id="overlay"></div>');
   var $image = $("<img>");
   var $body = $(`
