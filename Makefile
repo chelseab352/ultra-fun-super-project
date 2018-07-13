@@ -14,4 +14,5 @@ main.css: $(wildcard src/sass/*.scss)
 install:
 	npm install -g http-server && \
 	npm install -g browserify && \
-	npm install -g sass
+	npm install -g sass && \
+	yarn
