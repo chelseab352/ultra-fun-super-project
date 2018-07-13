@@ -1,11 +1,47 @@
 module.exports = {
 
-adverbs: [
-
+values: [
+'Everything starts with inspired people',
+'Teams do it best',
+'Embrace change',
+'Show some grit',
+'Be candid',
+'Celebrate wins'
 ],
+  
+adverbs: [
+'willfully',
+'firmly',
+'delightfully',
+'quickly',
+'lightly',
+'eternally',
+'weirdly',
+'cheerfully',
+'randomly',
+'briskly',
+'sloppily'
+],
+  
+adjectives: [
+'greasy',
+'dizzy',
+'melodic',
+'brave',
+'enthusiastic',
+'hungry',
+'obnoxious',
+'silky',
+'uptight',
+'puny',
+'combative',
+'jolly',
+'quaint',
+'squealing',
+'yummy'
+],  
 
 nouns: [
-
 ],
 
 activity: [
@@ -79,7 +115,18 @@ animals: [
 
 song: [],
 
-food: [],
+food: [
+'deep dish pizza',
+'fried cod fish',
+'roasted brussel sprouts',
+'goat cheese',
+'hazelnut latte',
+'chips and queso',
+'baby carrots',
+'cheeseburger',
+'tofu cubes',
+'crunchy peanut butter'
+],
 
 job: [
 'pig greaser',
@@ -176,10 +223,7 @@ funfacts: [
 'Competed in the (year) Unofficial Olympics in the sport of (sport), but was disqualified for excessive (activity).',
 'Hobbies include (hobbies), (hobbies), and (hobbies).',
 'Likes to (activity) in the spring time in (country).',
-'Diehard fan of Olympic (sport).',
-'Once rode an (animal) across Southern (country) for a charity event to raise money for disabled (job).',
-'Was the state champion in (hobbies) before having (his/her) title stripped after the (animal) scandal.',
-'Leveraged (his/her) hobby of (hobbies) to start a career as a (job) before joining 352.'
+'Diehard fan of Olympic (sport)'
 ]
 
 
