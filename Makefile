@@ -1,4 +1,4 @@
-.PHONY: build watch;
+.PHONY: build watch install;
 
 watch:
 	while true; do make build -s; sleep 2; done;
@@ -10,3 +10,8 @@ index.js: $(wildcard src/js/*.js)
 
 main.css: $(wildcard src/sass/*.scss)
 	sass src/sass/main.scss main.css
+
+install:
+	npm install -g http-server &&
+	npm install -g browserify &&
+	npm install -g sass
