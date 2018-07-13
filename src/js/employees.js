@@ -2,7 +2,7 @@ module.exports = [
     {
         name:"Magbic Aleman",
         position:"Software Developer",
-        team:"Pizza Party (dev)",
+        team:"Pizza Party",
         location:"Gainesville",
         department:"Software Development",
         photo:"Team-Circle-Magbic-Aleman.jpg",
@@ -11,9 +11,9 @@ module.exports = [
     {
         name:"Lincoln Anderson",
         position:"Associate Design Director",
-        team:"Red (dev)",
+        team:"Red",
         location:"Gainesville",
-        department:"Design - Visual Design",
+        department:"Design",
         photo:"Team-Red-Lincoln-Anderson.jpg",
         gender:"M"
     },
@@ -23,13 +23,13 @@ module.exports = [
         team:"Sales",
         location:"Atlanta",
         department:"Sales",
-        photo:"",
+        photo:"sarah_barnett_-_director_of_client_engagement.jpg",
         gender:"F"
     },
     {
         name:"Daniel Barreto",
         position:"Scrum Master",
-        team:"Diesel (dev) / Blue (SLA) / Covering for Pizza Party (dev)",
+        team:"Diesel / Blue / Pizza Party",
         location:"Gainesville",
         department:"Scrum Masters",
         photo:"danny-barreto.jpg",
@@ -37,8 +37,8 @@ module.exports = [
     },
     {
         name:"Robert Berris",
-        position:"VP, Digital Strategy",
-        team:"Leads Innovation department and designers",
+        position:"VP Design and Innovation",
+        team:"Innovation",
         location:"Atlanta",
         department:"Leadership & Partners",
         photo:"berris-750x938.jpg",
@@ -47,8 +47,8 @@ module.exports = [
     {
         name:"Caroline Blake",
         position:"Partner",
-        team:"Handles company financials and benefits / Covering project scheduling",
-        location:"TAMPA, FL OFFICE",
+        team:"Finance",
+        location:"Tampa",
         department:"Leadership & Partners",
         photo:"caroline-720x720-375x375.jpg",
         gender:"F"
@@ -56,8 +56,8 @@ module.exports = [
     {
         name:"Richard Brookfield",
         position:"Director of Technology",
-        team:"Apollo (352 Internal Product team) / Sales estimation",
-        location:"TAMPA, FL OFFICE",
+        team:"Apollo",
+        location:"Tampa",
         department:"Software Development",
         photo:"Team-I-4-Rich-Brookfield.jpg",
         gender:"M"
@@ -65,7 +65,7 @@ module.exports = [
     {
         name:"Michelle Brownstein",
         position:"Interactive Designer",
-        team:"Red (dev)",
+        team:"Red",
         location:"Gainesville",
         department:"Design - Front End Dev",
         photo:"Team-UX-Michelle-Brownstein.jpg",
@@ -74,7 +74,7 @@ module.exports = [
     {
         name:"Peter Brownstein",
         position:"Software Developer",
-        team:"Red (dev)",
+        team:"Red",
         location:"Gainesville",
         department:"Software Development",
         photo:"Team-Red-Peter-Brownstein.jpg",
@@ -82,17 +82,17 @@ module.exports = [
     },
     {
         name:"Chelsea Burns",
-        position:"Senior Marketing Strategist",
-        team:"SLCE (Product Growth)",
-        location:"TAMPA, FL OFFICE",
-        department:"Product Growth - Client Marketing",
+        position:"Boss Bitch",
+        team:"Mint",
+        location:"Tampa",
+        department:"Product Growth",
         photo:"Product-Growth-Chelsea-Burns.jpg",
         gender:"F"
     },
     {
         name:"Christopher Burns",
         position:"Scrum Master",
-        team:"Apollo (352 Internal Product team)",
+        team:"Apollo",
         location:"Gainesville",
         department:"Product Growth - 352 Products",
         photo:"Team-Red-Chris-Burns.jpg",
@@ -101,8 +101,8 @@ module.exports = [
     {
         name:"Kayla Burrell",
         position:"ScrumMaster",
-        team:"Pizza Party (dev) / Blue (SLA)",
-        location:"TAMPA, FL OFFICE",
+        team:"Blue",
+        location:"Tampa",
         department:"Scrum Masters",
         photo:"Team-Popo-Kayla-Burrell.jpg",
         gender:"F"
@@ -112,14 +112,14 @@ module.exports = [
         position:"VP of Product Growth",
         team:"Leads Product Growth ",
         location:"Atlanta",
-        department:"Product Growth - Client Marketing",
+        department:"Product Growth",
         photo:"lori.jpg",
         gender:"F"
     },
     {
         name:"Lindsay Clifton",
         position:"Executive Assistant",
-        team:"Coordinates Innovation work / Admin Asst / Atlanta office manager",
+        team:"Admin",
         location:"Atlanta",
         department:"Administrative",
         photo:"Administrative-Lindsay-Clifton.jpg",
@@ -137,7 +137,7 @@ module.exports = [
     {
         name:"Victor Davis",
         position:"Quality Assurance Analyst",
-        team:"Pizza Party (dev) / Diesel (dev) / Blue (SLA)",
+        team:"Pizza Party / Diesel / Blue",
         location:"Gainesville",
         department:"QA",
         photo:"Team-Fusion-Victor-Davis.jpg",
@@ -146,7 +146,7 @@ module.exports = [
     {
         name:"Edward Egun",
         position:"Software Developer",
-        team:"Blue (SLA)",
+        team:"Blue",
         location:"Gainesville",
         department:"Software Development",
         photo:"Team-Blue-Ed-Egun.jpg",
@@ -155,18 +155,18 @@ module.exports = [
     {
         name:"Scott Feigelis",
         position:"Interactive Designer",
-        team:"Pizza Party (dev)",
+        team:"Pizza Party",
         location:"Gainesville",
-        department:"Design - Visual Design",
+        department:"Design",
         photo:"Team-Circle-Scott-Fiegelis.jpg",
         gender:"M"
     },
     {
         name:"Nicholas Forneris",
         position:"Interactive Designer",
-        team:"Orange (dev)",
+        team:"Orange",
         location:"Gainesville",
-        department:"Design - Visual Design",
+        department:"Design",
         photo:"Team-Orange-Nick-Forneris.jpg",
         gender:"M"
     },
@@ -182,8 +182,8 @@ module.exports = [
     {
         name:"Christa Garcia",
         position:"VP of Operations",
-        team:"Leads Scrum Masters and oversees dev teams",
-        location:"TAMPA, FL OFFICE",
+        team:"Development",
+        location:"Tampa",
         department:"Leadership & Partners",
         photo:"Leadership-Christa-Garcia-375x375.jpg",
         gender:"F"
@@ -220,23 +220,23 @@ module.exports = [
         position:"Content Marketing Strategist",
         team:"PG Specialist",
         location:"Gainesville",
-        department:"Product Growth - Client Marketing",
+        department:"Product Growth",
         photo:"Product-Growth-_-Megan-Hord.jpg",
         gender:"F"
     },
     {
         name:"Kevin James",
         position:"Interactive Designer",
-        team:"Diesel (dev)",
+        team:"Diesel",
         location:"Gainesville",
-        department:"Product Growth - Client Marketing",
+        department:"Product Growth",
         photo:"Product-Growth-Kevin-James.jpg",
         gender:"M"
     },
     {
         name:"Ashish Johri",
         position:"Quality Assurance Analyst",
-        team:"Orange (dev) / Red (dev) / Blue (SLA)",
+        team:"Orange / Red / Blue",
         location:"Gainesville",
         department:"QA",
         photo:"Team-QA-Ashish-Johri.jpg",
@@ -245,7 +245,7 @@ module.exports = [
     {
         name:"Peter Juchniewicz",
         position:"Software Developer",
-        team:"Orange (dev)",
+        team:"Orange",
         location:"Gainesville",
         department:"Software Development",
         photo:"Team-Orange-Peter-Juchniewicz.jpg",
@@ -254,43 +254,43 @@ module.exports = [
     {
         name:"Lauren LeDonne",
         position:"Senior Marketing Strategist",
-        team:"SLCE (Product Growth)",
-        location:"TAMPA, FL OFFICE",
-        department:"Product Growth - Client Marketing",
+        team:"Mint",
+        location:"Tampa",
+        department:"Product Growth",
         photo:"Product-Growth-Lauren-LeDonne.jpg",
         gender:"F"
     },
     {
         name:"Sophie Loghman",
         position:"Product Marketing Strategiest",
-        team:"SLCE (Product Growth)",
+        team:"Mint",
         location:"Atlanta",
-        department:"Product Growth - Client Marketing",
+        department:"Product Growth",
         photo:"Product-Growth-Sophie-Loghman.jpg",
         gender:"F"
     },
     {
         name:"Erin Martin",
         position:"Marketing Strategist",
-        team:"Apollo (352 Internal Product team)",
+        team:"Apollo",
         location:"Atlanta",
-        department:"Product Growth - Client Marketing",
+        department:"Product Growth",
         photo:"Product-Growth-Erin-Devine-Martin.jpg",
         gender:"F"
     },
     {
         name:"Andrea Mausser",
         position:"Product Marketing Strategist",
-        team:"SLCE (Product Growth)",
-        location:"TAMPA, FL OFFICE",
-        department:"Product Growth - Client Marketing",
+        team:"Mint",
+        location:"Tampa",
+        department:"Product Growth",
         photo:"andrea-mausser.jpg",
         gender:"F"
     },
     {
         name:"Blake McLeod",
         position:"Front-End Developer",
-        team:"Orange (dev)",
+        team:"Orange",
         location:"Gainesville",
         department:"Design - Front End Dev",
         photo:"Team-Orange-Blake-McLeod.jpg",
@@ -300,16 +300,16 @@ module.exports = [
         name:"Andrew Mimault",
         position:"Digital Media Strategist",
         team:"PG Specialist",
-        location:"TAMPA, FL OFFICE",
-        department:"Product Growth - Client Marketing",
+        location:"Tampa",
+        department:"Product Growth",
         photo:"andrew-mimault.jpg",
         gender:"M"
     },
     {
         name:"Brandon Mitchell",
         position:"Interactive Designer",
-        team:"Diesel (dev)",
-        location:"WFH - FLORIDA WINTER PARK, FL",
+        team:"Diesel",
+        location:"Tampa",
         department:"Design - Front End Dev",
         photo:"Team-I-4-Brandon-Mitchell.jpg",
         gender:"M"
@@ -318,15 +318,15 @@ module.exports = [
         name:"Jeremy New",
         position:"Analytics Manager",
         team:"PG Specialist",
-        location:"TAMPA, FL OFFICE",
-        department:"Product Growth - Client Marketing",
+        location:"Tampa",
+        department:"Product Growth",
         photo:"jeremy-new.jpg",
         gender:"M"
     },
     {
         name:"Jonathan Pitts",
         position:"Software Developer",
-        team:"Diesel (dev)",
+        team:"Diesel",
         location:"Gainesville",
         department:"Software Development",
         photo:"Team_Blue_Jon_Pitts-1.jpg",
@@ -336,16 +336,16 @@ module.exports = [
         name:"Timothy Pratt",
         position:"Interactive Designer",
         team:"PG Specialist",
-        location:"WFH - FLORIDA ORMOND BEACH, FL",
-        department:"Design - Visual Design",
+        location:"Tampa",
+        department:"Design",
         photo:"Team-I-4-Tim-Pratt.jpg",
         gender:"M"
     },
     {
         name:"Bradley Prymicz",
         position:"Software Developer",
-        team:"Blue (SLA)",
-        location:"TAMPA, FL OFFICE",
+        team:"Blue",
+        location:"Tampa",
         department:"Software Development",
         photo:"Team-I-4-Brad-Prymicz-1.jpg",
         gender:"M"
@@ -355,14 +355,14 @@ module.exports = [
         position:"Senior Marketing Strategist",
         team:"PG Specialist",
         location:"Gainesville",
-        department:"Product Growth - Client Marketing",
+        department:"Product Growth",
         photo:"Product-Growth-Brian-Russell.jpg",
         gender:"M"
     },
     {
         name:"Logan Sobczak",
         position:"Software Developer",
-        team:"Blue (SLA)",
+        team:"Blue",
         location:"Gainesville",
         department:"Software Developer",
         photo:"logan.jpg",
@@ -381,15 +381,15 @@ module.exports = [
         name:"Kristin Scoufis",
         position:"Associate UX Director",
         team:"Cross-company UX resource",
-        location:"TAMPA, FL OFFICE",
-        department:"Product Growth - Client Marketing",
+        location:"Tampa",
+        department:"Product Growth",
         photo:"Team-UX-Krissy-Scoufis.jpg",
         gender:"F"
     },
     {
         name:"Michael Sheftic",
         position:"Software Developer",
-        team:"Red (dev)",
+        team:"Red",
         location:"Gainesville",
         department:"Software Development",
         photo:"Team-Orange-Michael-Sheftic.jpg",
@@ -398,7 +398,7 @@ module.exports = [
     {
         name:"Paul Traylor",
         position:"Interactive Designer",
-        team:"Blue (SLA)",
+        team:"Blue",
         location:"WFH - BLACK MOUNTAIN, NC",
         department:"Design - Front End Dev",
         photo:"Team-Blue-Paul-Traylor.jpg",
@@ -408,17 +408,17 @@ module.exports = [
         name:"Brent Walbolt",
         position:"Interactive Designer",
         team:"PG Specialist",
-        location:"TAMPA, FL OFFICE",
-        department:"Design - Visual Design",
+        location:"Tampa",
+        department:"Design",
         photo:"Team-Popo-Brent-Walbolt.jpg",
         gender:"M"
     },
     {
         name:"Damion Wasylow",
         position:"Senior Marketing Strategist",
-        team:"Silver (Product Growth)",
+        team:"Silver",
         location:"Gainesville",
-        department:"Product Growth - Client Marketing",
+        department:"Product Growth",
         photo:"Product-Growth-Damion-Wasylow.jpg",
         gender:"M"
     },
