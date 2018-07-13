@@ -1,10 +1,10 @@
 const { Ossuary } = require('./Ossuary');
 const $ = require('jquery');
+const employees = require('./employees');
 
 $(() => {
   console.log('ready');
   const o = new Ossuary({});
-  console.log(o.parse('{hello|world}'))
   var $overlay = $('<div id="overlay"></div>');
   var $image = $("<img>");
   var $body = $(`
@@ -17,6 +17,21 @@ $(() => {
 //An image to overlay
 $overlay.append($image);
 $overlay.append($body);
+
+// Generate the employees gallery
+employees.forEach((employee, index) => {
+  const $li = $(`
+    <li>
+      <a
+        href="src/assets/photos/${employee.photo}"
+        style="background-image: url(src/assets/photos/${employee.photo})"
+        data-index="${index}"
+        >
+      </a>
+    </li>
+  `);
+  $('#photo-gallery').append($li);
+});
 
 //Add overlay
 $("body").append($overlay);
