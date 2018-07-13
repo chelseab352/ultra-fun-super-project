@@ -1,0 +1,25 @@
+{
+  "name": "ultra-fun-super-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./ -p 1337"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logalleon/ultra-fun-super-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logalleon/ultra-fun-super-project/issues"
+  },
+  "homepage": "https://github.com/logalleon/ultra-fun-super-project#readme",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "ossuary": "^1.0.0",
+    "sass": "^1.9.1"
+  }
+}
