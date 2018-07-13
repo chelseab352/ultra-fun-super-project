@@ -2,9 +2,35 @@ module.exports = {
 
 adverbs: [
 ],
+
 nouns: [
 ],
-activity-present: [],
+
+activity: [
+'dance'
+'fart',
+'sing',
+'exercise',
+'strip',
+'fight',
+'sleep',
+'drink',
+'paint',
+'drive'
+],
+
+activity-present: [
+'dancing',
+'farting',
+'singing',
+'exercising',
+'stripping',
+'fighting',
+'sleeping',
+'drinking',
+'painting',
+'driving'
+],
 
 activity-past: [
 'danced',
@@ -144,11 +170,11 @@ funfacts: [
 'Parents were (job-plural) in the country of (country) before immigrating to the United States.',
 'Worked as a (job) for 10 years at an illegal (business) before joining 352.',
 'Was a semi-profesional (activity) at a nudist colony in (country).',
-'Once (activity) a man in Reno, just to watch him (activity).',
+'Once (activity-past) a man in Reno, just to watch him cry.',
 'Competed in the (year) Unofficial Olympics in the sport of (sport), but was disqualified for excessive (activity).',
 'Hobbies include (hobbies), (hobbies), and (hobbies).',
 'Likes to (activity) in the spring time in (country).',
-''
+'Diehard fan of Olympic (sport)'
 ]
 
 
